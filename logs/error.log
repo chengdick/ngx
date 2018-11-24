@@ -1,0 +1,22 @@
+2018/11/24 20:55:16 [emerg] 3268#8744: CreateFile() "D:\ziliao\nginx-1.14.1/nginx.conf" failed (2: The system cannot find the file specified)
+2018/11/24 20:57:21 [error] 16744#16760: *1 CreateFile() "D:\ziliao\nginx-1.14.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/11/24 21:03:20 [error] 16744#16760: *4 CreateFile() "D:\ziliao\nginx-1.14.1/html/jtml" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /jtml HTTP/1.1", host: "localhost"
+2018/11/24 21:03:25 [error] 16744#16760: *4 CreateFile() "D:\ziliao\nginx-1.14.1/html/html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /html HTTP/1.1", host: "localhost"
+2018/11/24 21:05:24 [notice] 14040#19560: signal process started
+2018/11/24 21:06:02 [error] 13592#1240: *1 CreateFile() "D:\ziliao\nginx-1.14.1/html/html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /html HTTP/1.1", host: "localhost"
+2018/11/24 21:06:07 [notice] 3732#14524: signal process started
+2018/11/24 21:07:50 [notice] 14356#12212: signal process started
+2018/11/24 21:32:16 [notice] 10384#15936: signal process started
+2018/11/24 21:54:34 [error] 12720#12984: *1 CreateFile() "D:\ziliao\nginx-1.14.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/11/24 22:09:15 [emerg] 17256#4700: invalid location modifier "^~login" in D:\ziliao\nginx-1.14.1/conf/nginx.conf:43
+2018/11/24 22:09:39 [emerg] 9916#9928: invalid number of arguments in "location" directive in D:\ziliao\nginx-1.14.1/conf/nginx.conf:43
+2018/11/24 22:09:53 [emerg] 8464#4724: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in D:\ziliao\nginx-1.14.1/conf/nginx.conf:44
+2018/11/24 22:10:11 [emerg] 15576#3208: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in D:\ziliao\nginx-1.14.1/conf/nginx.conf:44
+2018/11/24 22:10:31 [notice] 8352#696: signal process started
+2018/11/24 22:12:38 [notice] 16184#17316: signal process started
+2018/11/24 22:13:04 [emerg] 17092#7452: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in D:\ziliao\nginx-1.14.1/conf/nginx.conf:44
+2018/11/24 22:13:22 [emerg] 15060#8036: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in D:\ziliao\nginx-1.14.1/conf/nginx.conf:44
+2018/11/24 22:14:07 [notice] 14900#14560: signal process started
+2018/11/24 22:14:14 [error] 7216#16204: *1 CreateFile() "D:\ziliao\nginx-1.14.1/html/login/page" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /login/page HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/11/24 22:21:06 [notice] 8244#14708: signal process started
+2018/11/24 23:33:38 [error] 10904#11664: *1 CreateFile() "D:\ziliao\nginx-1.14.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
